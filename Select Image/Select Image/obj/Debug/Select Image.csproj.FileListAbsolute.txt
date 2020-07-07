@@ -1,0 +1,10 @@
+C:\Users\Farhan Ellahi\source\repos\Select Image\Select Image\bin\Debug\Select Image.exe.config
+C:\Users\Farhan Ellahi\source\repos\Select Image\Select Image\bin\Debug\Select Image.exe
+C:\Users\Farhan Ellahi\source\repos\Select Image\Select Image\bin\Debug\Select Image.pdb
+C:\Users\Farhan Ellahi\source\repos\Select Image\Select Image\obj\Debug\Select Image.csprojAssemblyReference.cache
+C:\Users\Farhan Ellahi\source\repos\Select Image\Select Image\obj\Debug\Select_Image.Form1.resources
+C:\Users\Farhan Ellahi\source\repos\Select Image\Select Image\obj\Debug\Select_Image.Properties.Resources.resources
+C:\Users\Farhan Ellahi\source\repos\Select Image\Select Image\obj\Debug\Select Image.csproj.GenerateResource.cache
+C:\Users\Farhan Ellahi\source\repos\Select Image\Select Image\obj\Debug\Select Image.csproj.CoreCompileInputs.cache
+C:\Users\Farhan Ellahi\source\repos\Select Image\Select Image\obj\Debug\Select Image.exe
+C:\Users\Farhan Ellahi\source\repos\Select Image\Select Image\obj\Debug\Select Image.pdb
