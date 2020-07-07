@@ -1,6 +1,6 @@
 *This is very simple and easy code to select only images files*
 
-[Filter Image Selection ScreenShot](https://i.imgur.com/o5HlShu.png)
+![Filter Image Selection ScreenShot](https://i.imgur.com/o5HlShu.png)
 
 
 
